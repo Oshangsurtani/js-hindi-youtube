@@ -36,7 +36,7 @@ let negValue = -value
 // console.log(2+2);
 // console.log(2-2);
 // console.log(2*2);
-// console.log(2**3);
+// console.log(2**3); //power 2^3
 // console.log(2/3);
 // console.log(2%3);
 
@@ -45,15 +45,15 @@ let str2 = " hitesh"
 
 let str3 = str1 + str2
 // console.log(str3);
-
+//***not useful in  industries
 // console.log("1" + 2);
 // console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+// console.log("1" + 2 + 2); //conversion to string all output: 122
+// console.log(1 + 2 + "2"); // first 1+2=3 then string addition output: 32 
 
 // console.log( (3 + 4) * 5 % 3);
 
-// console.log(+true);
+// console.log(+true);// converts to interger
 // console.log(+"");
 
 let num1, num2, num3
